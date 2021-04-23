@@ -1,0 +1,20 @@
+.user-login{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-login__name-input{
+    pad: 10px;
+}
+
+.user-login__name-submit{
+    text-decoration: none;
+    color: black;
+}
+
+.user-login__name-submit:hover{
+    background-color: #cacaca;
+}

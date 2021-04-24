@@ -5,7 +5,9 @@ export class MessageInput extends React.Component {
     return (
       <form action="" className="message-input">
         <input type="text" name="" id="" className="message-input__text" />
-        <button type="submit" className="message-input__submit-button"></button>
+        <button type="submit" className="message-input__submit-button">
+          Submit
+        </button>
       </form>
     );
   }

@@ -1,5 +1,6 @@
 import React from "react";
 
+// Layout for one message
 export class Message extends React.Component {
   render() {
     return (

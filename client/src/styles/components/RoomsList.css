@@ -1,0 +1,8 @@
+.room-list {
+    border-top: 1px solid #797979;
+    overflow-y: scroll;
+}
+
+.room-list__wrapper{
+    height: 50%;
+}

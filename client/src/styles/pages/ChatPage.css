@@ -1,0 +1,15 @@
+.chatPage{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+}
+
+.side-pannel{ 
+    width: 33%;
+    height: 100%;
+}
+
+.chatPart {
+    width: 100%;
+}

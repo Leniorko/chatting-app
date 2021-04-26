@@ -1,8 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import style from "../styles/components/UserLogin.css";
 
-//Component used for log in
+/**
+ * Login screen
+ * First screen that user sees
+ */
 export class UserLogin extends React.Component {
   constructor(props) {
     super(props);

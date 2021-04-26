@@ -1,5 +1,7 @@
 import React from "react"
 
+
+// Layout for user
 export class User extends React.Component{
     render(){
         return(
@@ -8,7 +10,6 @@ export class User extends React.Component{
                     <div className="user__name">{this.props.user}</div>
                     <div className="user__status"></div>
                 </div>
-                <div className="user__new-msg-alert">!</div>
             </div>
         )
     }
